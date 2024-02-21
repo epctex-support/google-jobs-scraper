@@ -1,4 +1,4 @@
-[https://apify.com/epctex/google-jobs-scraper?fpr=yhdrb](https://apify.com/epctex/google-jobs-scraper?fpr=yhdrb)
+[https://apify.com/epctex/google-jobs-scraper](https://apify.com/epctex/google-jobs-scraper?fpr=yhdrb)
 
 # Actor - Google Jobs Scraper
 
